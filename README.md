@@ -4,4 +4,4 @@
 
 Hoje é dia de limpar as estantes, organizar livros e evoluir um pouco mais. 
 
-<p>Nessa atividade o objetivo é aprender a lidar com erros, ler (e reler) várias vezes o próprio código e não deixar o desânimo bater hehe.</p>
+<p>Nessa atividade o objetivo é aprender a lidar com erros dentro de um banco de dados de uma biblioteca, ler (e reler) várias vezes o próprio código e não deixar o desânimo bater hehe.</p>
